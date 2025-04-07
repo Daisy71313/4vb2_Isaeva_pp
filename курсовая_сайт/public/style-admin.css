@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: white;
   }
 
   .reg {
@@ -8,9 +8,9 @@ body {
   }
 
   input {
-    background-color: #FFE9E9;
-    width: 350px;
-    height: 30px;
+    background-color: white;
+    width: 390px;
+    height: 40px;
     border-radius: 30px;
     padding-left: 10px;
     margin-bottom: 10px;
@@ -20,7 +20,7 @@ body {
     font-family: "Jost", serif;
     font-size: 16px;
     letter-spacing: 4%;
-    color: #750604;
+    color: #DE101A;
     opacity: 90%;
     font-weight: 900;
   }
@@ -28,24 +28,23 @@ body {
   .reg_block {
     display: block;
     margin-top: 100px;
-    text-align: left;
-    padding-left: 140px;
+    text-align: center;
     padding-top: 100px;
-    width: 1090px;
+    width: 900px;
     height: 658px;
-    background-color: #750604;
-    opacity: 70%;
+    background-color: rgba(222, 15, 26, 0.9);
   }
 
   .button {
     width: 255px;
     height: 45px;
-    background-color: #C7816C;
+    background-color: #DE0F1A;
     color: white;
-    font-size: 22px;
-    border-color: none;
+    font-size: 20px;
+    border: none;
     font-weight: 700;
     margin-bottom: 0;
+    box-shadow: 5px 12px 5.8px rgba(0, 0, 0, 0.4);
 
   }
 
@@ -54,8 +53,7 @@ body {
     font-family: "Jost", serif;
     font-size: 48px;
     font-weight: 700;
-    margin-left: 35px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 
   }
 
@@ -68,14 +66,10 @@ body {
     margin-left: 20px;
   }
 
-  .img_reg {
-    position: absolute;
-    margin-left: 750px;
-  }
   .header-box {
   width: 100%;
   height: 92px;
-  background-color: #9E4A49;
+  background-color: #DE101A;
 }
 
 header {
@@ -94,7 +88,7 @@ li {
 ul {
   display: flex;
   margin: 0 auto;
-  width: 855px;
+  width: 1000px;
   justify-content: space-between;
   font-family: "Jost", serif;
   font-size: 22px;
