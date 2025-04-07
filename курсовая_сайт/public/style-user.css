@@ -1,12 +1,12 @@
 body {
-  background-color: #FFE9E9;
+  background-color: white;
   display: block;
 }
 
 .header-box {
   width: 100%;
   height: 92px;
-  background-color: #9E4A49;
+  background-color: #DE101A;
 }
 
 header {
@@ -43,12 +43,6 @@ header a {
   font-weight: 300;
   text-decoration: none;
 }
-.index_1 {
-  margin: 0 auto;
-  max-width: 1557px;
-  margin-top: 95px;
-  position: relative;
-}
 .commun_1 {
   margin: 0 auto;
   max-width: 1557px;
@@ -57,27 +51,12 @@ header a {
 }
 
 
-.index_img, .commun_img {
+.commun_img {
   position: absolute;
   z-index: 0;
   display: flex;
   margin: 0 auto;
   max-width: 1557px;
-}
-
-.text_boxin1 {
-  position: absolute;
-  padding-top: 50px;
-  padding-left: 103px;
-}
-
-.text_boxin1 h2 {
-  font-family: "Jost", serif;
-  font-size: 48px;
-  color: #831F1D;
-  letter-spacing: 1.3px;
-  font-weight: 700;
-  margin-bottom: 10px;
 }
 
 h3 {
@@ -89,18 +68,6 @@ h3 {
   margin-top: 0;
   width: 770px;
   line-height: 40px;
-}
-
-.button_in1 {
-  color: #831F1D;
-  background-color: transparent;
-  width: 397px;
-  height: 57px;
-  border-radius: 50px;
-  font-family: "Jost", serif;
-  font-size: 32px;
-  letter-spacing: 1.3px;
-  font-weight: 400;
 }
 .commun_1 h3 {
   color: #831F1D;
