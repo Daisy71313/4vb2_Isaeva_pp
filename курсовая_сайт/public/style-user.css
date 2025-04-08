@@ -326,3 +326,23 @@ color: #750604;
 .index_foto {
   padding-top: 10px;
 }
+.bgimg-1 { 
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.bgimg-1 {
+  background-image: url('../img/parallax.png');
+  min-height: 400px;
+  }
+  .line, .line1 {
+    width: 100%;
+    height: 17px;
+    background-color: #DD0F1A;
+  }
+  .line1 {
+    margin-top: 12px;
+  }
