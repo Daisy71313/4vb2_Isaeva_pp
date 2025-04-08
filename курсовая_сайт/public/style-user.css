@@ -310,3 +310,16 @@ color: #750604;
   justify-content: space-between;
   align-items: center;
 }
+.index_b {
+  width: 248px;
+  height: 66px;
+  background-color: #DE0F1A;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 70px;
+  font-weight: 700;
+  margin-bottom: 0;
+  box-shadow: 5px 12px 5.8px rgba(0, 0, 0, 0.4);
+  margin-top: 30px;
+}
