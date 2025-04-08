@@ -288,3 +288,25 @@ input {
   position: absolute;
   margin-left: 750px;
 }
+h1 {
+  font-family: "Jost", serif;
+  font-size: 80px;
+  color: #750604;
+  letter-spacing: 1.3px;
+  font-weight: 700;
+  width: 785px;
+  line-height: 98%;
+  margin-bottom: 20px;
+}
+.index-tbox h3{
+margin: 0;
+font-size: 28px;
+color: #750604;
+}
+.page_index {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1557px;
+  justify-content: space-between;
+  align-items: center;
+}
